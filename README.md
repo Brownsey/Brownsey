@@ -26,7 +26,7 @@ I am data science graduate from the University of Warwick
   <p align="center">
     <a href="https://www.linkedin.com/in/stephen-brownsey/" alt="Linkedin"><img src="https://github.com/Brownsey/Brownsey/blob/master/readme/linkedin.png"></a>
     <a href="https://github.com/Brownsey" alt="GitHub"><img src="https://github.com/Brownsey/Brownsey/blob/master/readme/github.png"></a>
-    <a href="https://www.youtube.com/channel/UClz6D0RU-xQTq1V0q6sV40Q" alt="Medium"><img src="https://github.com/Brownsey/Brownsey/blob/master/readme/youtube.png"></a>
+    <a href="https://www.youtube.com/channel/UClz6D0RU-xQTq1V0q6sV40Q" alt="Medium"><img src="https://github.com/Brownsey/Brownsey/blob/master/readme/youtube.PNG"></a>
 
   </p>
   
