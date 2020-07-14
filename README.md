@@ -1,31 +1,27 @@
 <img src="https://github.com/Brownsey/Brownsey/blob/master/readme/photo.jpg">
 
-### Hey, It'Stephen Brownsey here
+### Hey, It's Stephen Brownsey here
 I am data science graduate from the University of Warwick
 
 - 💻 Working as a **Data Analyst**
-- ☀️ Playing Cricket, squash and spending time with my dogs
+- ☀️ Playing cricket, squash and spending time with my dogs
 - ✍️ Learning new skills
 
 <details>
   <summary>Some interesting facts about me!</summary>
   <br>
   
-  - In mean time, I create visual and artistic images using photoshop, you can check those are on **[My Instagram](https://www.instagram.com/imdhruv_28/)**.
+  - Currently learning PowerBI and preparing to start taking AWS exams ⭐️
   
-  - While Coding, Listening Music and developing useful code. ⭐️
-  
-  - Reading Novels, Action and Adventure, Autobiography & Biography, Comics, Detective and Mystery, Fantasy, Historical Fiction, Romance, Sci-Fi, History books.
-  
-  - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. 🌌 ☄️ 🔭
+  - Enjoy the countryside and spending time away from my computer screen when I have downtime
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=imdhruv99&show_icons=true)
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=Brownsey&show_icons=true)
 </details>
  
 
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+  <i>Links below</i>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/stephen-brownsey/" alt="Linkedin"><img src="https://github.com/Brownsey/Brownsey/blob/master/readme/linkedin.png"></a>
