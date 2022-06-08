@@ -3,7 +3,7 @@
 ### Hey, It's Stephen Brownsey here
 I am data science graduate from the University of Warwick
 
-- 💻 Working as a **Data Analyst**
+- 💻 Working as a **Data Scientist**
 - ☀️ Playing cricket, squash and spending time with my dogs
 - ✍️ Learning new skills
 
@@ -11,7 +11,7 @@ I am data science graduate from the University of Warwick
   <summary>Some interesting facts about me!</summary>
   <br>
   
-  - Currently learning PowerBI and preparing to start taking AWS exams ⭐️
+  - Currently working on some runescape pricing/merchanting related projects
   
   - Enjoy the countryside and spending time away from my computer screen when I have downtime
 
