@@ -1,3 +1,5 @@
+<img src="https://github.com/Brownsey/Brownsey/blob/master/readme/photo.jpg">
+
 # Hey, I'm Stephen 👋
 
 **AI Engineer / Forward Deployed Engineer** building production AI systems and turning messy problems into practical solutions.
