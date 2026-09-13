@@ -26,11 +26,3 @@
 🎓 First-Class BSc Data Science — University of Warwick
 
 🏏 Cricket · Squash · Countryside · Dogs
-
-</details>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brownsey&show_icons=true" alt="Stephen's GitHub stats">
-</p>
